@@ -1,2 +1,2 @@
 # pacman
-[Image](images/pacman2.png)
+![Image](images/pacman2.png)
