@@ -1,2 +1,2 @@
 # pacman
-![Image](images/pacman2.png)
+<img src="images/pacman1.png" alt="image1">
