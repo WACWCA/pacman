@@ -1,4 +1,5 @@
 <h1>Pacman</h1>
+
 <img src="images/pacman1.PNG" alt="image1"/>
 <h2>The game</h2>
 <h2>Maze generation</h2>
