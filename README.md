@@ -2,6 +2,16 @@
 https://user-images.githubusercontent.com/54251767/134431061-9364df94-66e2-4a76-9921-af7fae961ae3.mp4
 <img src="images/pacman1.PNG" alt="image1"/>
 <h2>The game</h2>
+<ul>
+  <li>Tunnels</li>
+  <li>Ghosts make turns that seek out player</li>
+  <li>Ghosts run from player when in vulnerable state</li>
+  <li>Speed increases as game progresses</li>
+  <li>3-lives system/li>
+  <li>Unlimited leves</li>
+  <li>New mazes every game</li>
+  <li>Scoring System</li>
+</ul>
 <h2>Maze generation</h2>
 <p>The algorithm for generating the mazes was inspired by that described on <a href="https://shaunlebron.github.io/pacman-mazegen/">Shaun Lebron's Github</a>, which additionally defined constraints of traditional pac man mazes
 </p>
