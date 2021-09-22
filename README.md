@@ -1,12 +1,5 @@
 <h1>Pacman</h1>
-
-
-
-
 https://user-images.githubusercontent.com/54251767/134431061-9364df94-66e2-4a76-9921-af7fae961ae3.mp4
-
-
-
 <img src="images/pacman1.PNG" alt="image1"/>
 <h2>The game</h2>
 <h2>Maze generation</h2>
