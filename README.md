@@ -14,9 +14,11 @@
   <li>Only I, L, T, or + wall shapes are allowed, including the occasional rectangular wall</li>
   <li>Any non-rectangular wall pieces must only be 2 tiles thick</li>
 </ul>
+
 <h3>Original Pacman maze</h3>
 <img src="https://static.wikia.nocookie.net/pacman/images/e/ed/Originalpacmaze.png/revision/latest?cb=20090919171607">
 
+The algorithm designed for this project relies on a tetris style building technique. A shape would be selected at random from a list of allowable states, and fit into a random position. Certain requirements for the board such as the pen for the ghosts to spawn in were taken into account for that step as well. This was repeated until the no more pieces could fit onto the board, at which point it was mirrored horizontally. This produced the structure pictured on the right. That picture also displays the marked small horizontal and vertical manipulations that occured to get the board to fit the 28x31 dimensions. The image on the left depicts the maze drawn from the original structure
 <p>
   <img src="images/mazematch1.PNG" width="400" />
   <img src="images/mazematch2.PNG" width="400" /> 
