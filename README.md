@@ -23,6 +23,7 @@ The algorithm designed for this project relies on a tetris style building techni
   <img src="images/mazematch1.PNG" width="400" />
   <img src="images/mazematch2.PNG" width="400" /> 
 </p>
+<h3>Sample mazes</h3>
 <p>
   <img src="images/randmaze1.PNG" width="250" />
   <img src="images/randmaze2.PNG" width="250" /> 
