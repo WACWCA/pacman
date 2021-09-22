@@ -1,7 +1,6 @@
 <h1>Pacman</h1>
 <img src="images/pacman1.PNG" alt="image1"/>
-
-
+<h2>The game</h2>
 <h2>Maze generation</h2>
 <p>The algorithm for generating the mazes was inspired by that described on <a href="https://shaunlebron.github.io/pacman-mazegen/">Shaun Lebron's Github</a>, which additionally defined constraints of traditional pac man mazes
 </p>
